@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "紡ぐ - From THE FIRST TAKE",
+  "base_artist": "とた",
+  "createdAt": "2025-12-22T07:20:32.963768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紡ぐ",
+      "artist": "とた",
+      "has_synced": true,
+      "path": "select/01_紡ぐ_とた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tsumugu - 紡ぐ (feat. SHIN-SUI)",
+      "artist": "Mirza Orkun",
+      "has_synced": true,
+      "path": "select/02_Tsumugu_-_紡ぐ_(feat._SHIN-SUI)_Mirza_Orkun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紡ぐ",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_紡ぐ_とた.txt"
+    }
+  ]
+}
